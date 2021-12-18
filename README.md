@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThisuraDeelaka
+- 👋 Hi, I’m @Thisura Rajapakse
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning an undergradute, field of Computer Engineering
 - 💞️ I’m looking to collaborate on ...
